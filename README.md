@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://files.catbox.moe/s7acjb.png">
+  <a href="https://i.postimg.cc/GhvmRfJt/IMG-20250306-033010-020.jpg">
     <!-- Replace with your video URL for the first image -->
     <video width="500" height="300" controls>
       <source src="https://files.catbox.moe/q9r9eq.mp4" type="video/mp4">
@@ -100,9 +100,9 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="https://files.catbox.moe/b1ya2a.webp" alt="BMW XMD Bot" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/s7acjb.png" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/8pb4ok.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
+  <img src="https://i.postimg.cc/GhvmRfJt/IMG-20250306-033010-020.jpg" alt="BMW XMD Bot" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://i.postimg.cc/GhvmRfJt/IMG-20250306-033010-020.jpg" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
+  <img src="https://i.postimg.cc/GhvmRfJt/IMG-20250306-033010-020.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
 </p>
 
 ---
