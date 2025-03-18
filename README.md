@@ -1,5 +1,5 @@
 <details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
+<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 TREKKER MD 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
   
 - 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
 - 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BWM XMD MADE BY IBRAHIM ADAMS</h1>
+<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BWM XMD MADE BY TREKKER-MD</h1>
 
 <p align="center">
   <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
